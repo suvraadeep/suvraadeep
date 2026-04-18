@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Enthusiast-blue?style=flat-square&logo=openai" />
+  <img src="https://img.shields.io/badge/AI-Developer-blue?style=flat-square&logo=openai" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=suvraadeep" />
   <img src="https://img.shields.io/github/followers/suvraadeep?label=Followers&style=social" />
 </p>
@@ -14,7 +14,7 @@
 
 - final-year undergrad, building at the intersection of **AI systems, LLMs, and real-world applications**
 - focused on **RAG, Graph RAG, agentic workflows, MCP, building models from scratch and multi-agent systems**
-- experienced in designing **end-to-end ML systems** — from scratch implementations to production-ready pipelines
+- experienced in designing **end-to-end ML systems** from scratch implementations to production-ready pipelines
 - interested in **scalable inference**
 - actively exploring **RL**
 - enjoy building things that actually work in messy, real world data scenarios
@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
 </p>
